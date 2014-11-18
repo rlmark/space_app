@@ -29,7 +29,19 @@ h1 {
   font-size: 3em;
 }
 
+//ROVER BLOCK
+.block {
+  margin: 0;
+  padding: 20px 10%;
+}
 
+.rover {
+  background-color: rgba(76, 1, 38, 0.7);
+}
+
+.weather {
+  background-color: rgba(4, 23, 46, 0.7);
+}
 //MEDIA QUERY FOR SMALL SCREEN
 @media screen and (max-width: 450px) {
     header {
